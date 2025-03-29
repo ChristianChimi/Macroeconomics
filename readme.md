@@ -8,11 +8,6 @@ Pre-analytics steps:
 
 Python EDA
   - Phillip's Curve and evaluation on canada and Italy
-  - Impact of 2008 crisis on GDP and Unemployment, with correlation
+  - Monte Carlo method simulation to predict GDP growth
+  - Machine learning: Random Forest Classifier to identify and predict recession years
 
-Visualization on Tableau as a interactive dashboard:
-  - Phillip's Curve scatterplot (inflation and unemployment)
-  - GDP and Unemployment per Year for every Country
-  - Inflation world map
-  - GDP tree map
-  - Year filter to visualize data
