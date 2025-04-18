@@ -8,6 +8,6 @@ Pre-analytics steps:
 
 Python EDA
   - Phillip's Curve and evaluation on canada and Italy
-  - Monte Carlo method simulation to predict GDP growth
+  - Monte Carlo method simulation to predict GDP growth work in progress
   - Machine learning: Random Forest Classifier to identify and predict recession years
 
