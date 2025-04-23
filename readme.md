@@ -8,6 +8,6 @@ Hi! This is a macroeconomics data analytics. I downloaded GDP, unemployment rati
 
 - EDA
   - Phillip's Curve and evaluation on canada and Italy.
-  - Monte Carlo method simulation to predict GDP growth work in progress.
+  - Monte Carlo method simulation to predict GDP growth
   - Machine learning: Random Forest Classifier to identify and predict recession years.
 
