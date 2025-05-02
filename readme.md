@@ -15,3 +15,5 @@ Hi! This is a macroeconomics data analytics. I downloaded GDP, unemployment rati
   - Monte Carlo method simulation to predict GDP growth
   - Machine learning: Random Forest Classifier to identify and predict recession years.
 
+## **Technologies Used**
+- **Python**, **Pandas**, **Matplotlib**, **Numpy**, **Scikit-learn**.
