@@ -2,6 +2,7 @@
 ## **Macroeconomics Analytics**
 ## **Overview**
 This project focuses on analyzing macroeconomic data, specifically GDP, unemployment rates, and inflation. I used publicly available data from the World Bank to perform exploratory data analysis (EDA), simulation, and machine learning tasks to gain insights into economic trends.
+
 Real dataset from Data World Bank!
 
 ## **Data Pre-processing**
